@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "sources": [
+    "../../../web/src/pages/FatalErrorPage/FatalErrorPage.tsx",
+    "../../../web/src/pages/NotFoundPage/NotFoundPage.tsx"
+  ],
+  "names": [],
+  "mappings": ";;;;;;AAYA;ACZA",
+  "file": "web-routesPages.d.ts"
+}
